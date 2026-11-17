@@ -1,0 +1,450 @@
+{
+  "date": "2026-12-05",
+  "oldStyleDate": "2026-11-22",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-22",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "22. Суббота. Попразднство Введения. Апп. от 70-ти Филимо́на, Архи́ппа и мц. равноап. Апфи́и. Блгв. кн. Михаи́ла Тверског",
+      "header": "22. Суббота. Попразднство Введения. Апп. от 70-ти Филимо́на, Архи́ппа и мц. равноап. Апфи́и. Блгв. кн. Михаи́ла Тверского.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "22. Суббота. Попразднство Введения. Апп. от 70-ти Филимо́на, Архи́ппа и мц. равноап. Апфи́и.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Блгв. кн. Михаи́ла Тверского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Блгв. Яропо́лка, во Святом Крещении Петра́, кн. Владимиро-Волынского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Служба апостолов не имеет праздничного знака, совершается вместе со службой попразднства.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На вечерне кафизмы нет.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: праздника, глас 8-й – 3, и апостолов, глас 2-й – 3. «Слава» – праздника, глас 1-й: «Да ра́дуется днесь…»[1], «И ныне» – догматик, глас тот же: «Всеми́рную сла́ву…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": 6,
+            "incipits": [
+              "Да ра́дуется днесь…",
+              "Всеми́рную сла́ву…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры праздника, глас 2-й (со своими припевами). «Слава, и ныне» – праздника, глас тот же: «Днесь в храм приво́дится…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Днесь в храм приво́дится…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь апостолов, глас 3-й. «Слава, и ныне» – тропарь праздника, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь праздника, глас 4-й (дважды). «Слава» – тропарь апостолов, глас 3-й, «И ныне» – тропарь праздника, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы[2] 16-я и 17-я[3]. Малые ектении. Седальны праздника (по дважды). Псалом 50-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: праздника 1-й[4] со ирмосом на 8 (ирмосы по дважды) и апостолов на 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 8,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи (апостолов).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак апостолов, глас 2-й; седален апостолов, глас 8-й. «Слава, и ныне» – седален праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос праздника, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен праздника. «Слава, и ныне» – тот же светилен.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры праздника, глас 6-й (со своими припевами). «Слава, и ныне» – праздника, глас 4-й: «Днесь Боговмести́мый Храм…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": [
+              "Днесь Боговмести́мый Храм…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь апостолов, глас 3-й. «Слава, и ныне» – тропарь праздника, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь праздника. «Слава» – тропарь апостолов. Кондак только праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны праздника, песнь 1-я – 6 (со ирмосом).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь храма, тропарь праздника, тропарь апостолов; кондак храма. «Слава» – кондак апостолов, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь праздника, тропарь апостолов. «Слава» – кондак апостолов, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь праздника, тропарь храма, тропарь апостолов; кондак храма. «Слава» – кондак апостолов, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – праздника и апостолов.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – апостолов и дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Задостойник праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 Ср.: Розанов В. Богослужебный Устав Православной Церкви. С. 166–167, 175, 183, 193, 200, 206.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 На утрене в предпразднство и попразднство Введения читаются две кафизмы, несмотря на то, что это период стихословия трех кафизм на утрене седмичных дней.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "3 На 17-й кафизме иерей совершает полное каждение храма, как на «Господи, воззвах»; царские врата остаются закрытыми (ср.: Типикон, гл. 12).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 1,
+            "totalCount": 17,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "4 Два канона праздника Введения в период попразднства поются попеременно: в первый день 1-й, во второй день 2-й и т. д.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

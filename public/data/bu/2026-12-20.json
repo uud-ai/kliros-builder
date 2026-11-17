@@ -1,0 +1,855 @@
+{
+  "date": "2026-12-20",
+  "oldStyleDate": "2026-12-07",
+  "source": "https://api.patriarchia.ru/v1/events/2026-12-07",
+  "variants": [
+    {
+      "id": "variant_А",
+      "label": "Вариант А",
+      "title": "На великой вечерне «Блажен муж» – кафизма вся.",
+      "header": "7. Неделя 29-я по Пятидесятнице. Глас 4-й. Свт. Амвро́сия, еп. Медиола́нского. Прп. Ни́ла Столобе́нского. Прп. Анто́ния Си́йского. Служба свт. Амвро́сия Медиола́нского не имеет праздничного знака, совершается вместе с во",
+      "nodes": [
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 10: воскресные, глас 4-й – 7, и святителя, глас 1-й – 3. «Слава, и ныне» – догматик, глас 4-й: «Иже Тебе ра́ди…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": 10,
+            "incipits": [
+              "Иже Тебе ра́ди…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На литии стихира храма и Богородичные стихиры Павла Аморрейского, глас 8-й (см. на «Господи, воззвах» в воскресной службе 4-го гласа в Октоихе, без стихов). «Слава, и ныне» – его же стихира, глас тот же: «Ра́дуйся, Богома́ти Пречи́стая…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Ра́дуйся, Богома́ти Пречи́стая…"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры воскресные, глас 4-й. «Слава, и ныне» – Богородичен воскресный, глас тот же: «При́зри на моле́ния…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "При́зри на моле́ния…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – «Богородице Дево…» (трижды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Богородице Дево…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь воскресный, глас 4-й (дважды). «Слава» – тропарь святителя, глас тот же, «И ныне» – Богородичен воскресный, глас тот же: «Еже от ве́ка…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Еже от ве́ка…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 2-я и 3-я. Малые ектении. Седальны воскресные.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. «Ангельский собор…». Ипакои, степенны и прокимен – гласа[1]. Евангелие воскресное 7-е. «Воскресение Христово видевше…». По 50-м псалме: «Слава» – «Молитвами апостолов…». Стихира воскресная, глас 6-й: «Воскрес Иисус от гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": [
+              "Ангельский собор…",
+              "Воскресение Христово видевше…",
+              "Молитвами апостолов…",
+              "Воскрес Иисус от гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: воскресный со ирмосом на 4 (ирмосы единожды), Крестовоскресный на 3, Богородицы (Октоиха) на 3 и святителя на 4.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 4,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак святителя, глас 3-й; седален святителя, глас 8-й. «Слава, и ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Примечание. Типикон умалчивает о кондаке святителя, глас 8-й: «Изря́дно сло́во…». В Минее синодального периода (см.: Минея-Декабрь. Киев, 1893. Л. 49 об.) этот кондак также отсутствует.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Изря́дно сло́во…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос воскресные, глас 4-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни – «Свят Господь Бог наш». Ексапостиларий воскресный 7-й. «Слава, и ныне» – Богородичен воскресного ексапостилария.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Свят Господь Бог наш"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры воскресные, глас 4-й – 8. «Слава» – стихира евангельская 7-я, «И ныне» – «Преблагословенна еси…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Преблагословенна еси…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь воскресный: «Воскрес из гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Воскрес из гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь воскресный. «Слава» – тропарь святителя. Кондак только воскресный.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны гласа – 8.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь воскресный, тропарь святителя. «Слава» – кондак святителя, «И ныне» – кондак воскресный.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь воскресный, тропарь храма, тропарь святителя; кондак воскресный. «Слава» – кондак святителя, «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь воскресный, тропарь храма, тропарь святителя; кондак воскресный, кондак храма. «Слава» – кондак святителя, «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – воскресные.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол – дня (Недели 30-й)[2]: Кол., 258 зач.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Евангелие – дня (Недели 29-й): Лк., 85 зач.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "Примечание. Согласно Уставу, в Неделю святых праотец на Литургии положено читать Евангелие о званных на вечерю (Лк., 76 зач.), то есть рядовое Евангелие Недели 28-й. Поэтому в Неделю 29-ю по Пятидесятнице, которой в текущем году с учетом Воздвиженской отступки соответствует рядовое Евангелие Недели 28-й, следует читать Евангелие Недели 29-й (Лк., 85 зач.), которое в текущем году по расписанию рядовых евангельских чтений приходится на Неделю святых праотец.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "variant_Б",
+      "label": "Вариант Б",
+      "title": "На великой вечерне «Блажен муж» – кафизма вся.",
+      "header": "7. Неделя 29-я по Пятидесятнице. Глас 4-й. Свт. Амвро́сия, еп. Медиола́нского. Прп. Ни́ла Столобе́нского. Прп. Анто́ния Си́йского. Служба свт. Амвро́сия Медиола́нского не имеет праздничного знака, совершается вместе с во",
+      "nodes": [
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 10: воскресные, глас 4-й – 6, и преподобного, глас тот же – 4 (первая стихира – дважды). «Слава» – преподобного, глас 8-й: «Преподо́бне о́тче Ни́ле…», «И ныне» – догматик, глас 4-й: «Иже Тебе ра́ди…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": 10,
+            "incipits": [
+              "Преподо́бне о́тче Ни́ле…",
+              "Иже Тебе ра́ди…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "litiya",
+          "sectionTitle": "На литии",
+          "rubricText": "На литии стихира храма и стихиры преподобного, глас 8-й (см. на стиховне вечера, без стиховных припевов). «Слава» – преподобного, глас 5-й: «Преподо́бне о́тче Ни́ле…» (см. славник на хвалитех утрени), «И ныне» – Богородичен воскресный по гласу «Славы»: «Храм и дверь еси…»[3].",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Преподо́бне о́тче Ни́ле…",
+              "Славы",
+              "Храм и дверь еси…"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры воскресные, глас 4-й. «Слава» – преподобного, глас 8-й: «Мона́хов мно́жества…», «И ныне» – Богородичен воскресный по гласу «Славы»: «Безневе́стная Де́во…»[4].",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Мона́хов мно́жества…",
+              "Славы",
+              "Безневе́стная Де́во…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – «Богородице Дево…» (трижды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Богородице Дево…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь воскресный, глас 4-й (дважды). «Слава» – тропарь преподобного, глас тот же, «И ныне» – Богородичен воскресный по гласу «Славы»: «Еже от ве́ка…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Еже от ве́ка…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 2-я и 3-я. Малые ектении. Седальны воскресные.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. «Ангельский собор…». Ипакои, степенны и прокимен – гласа[5]. Евангелие воскресное 7-е. «Воскресение Христово видевше…». По 50-м псалме: «Слава» – «Молитвами апостолов…». Стихира воскресная, глас 6-й: «Воскрес Иисус от гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": [
+              "Ангельский собор…",
+              "Воскресение Христово видевше…",
+              "Молитвами апостолов…",
+              "Воскрес Иисус от гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: воскресный со ирмосом на 4 (ирмосы единожды), Крестовоскресный на 2, Богородицы (Октоиха) на 2 и преподобного на 6.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 4,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос преподобного, глас 8-й; седален преподобного, глас 4-й (дважды). «Слава, и ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос воскресные, глас 4-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни – «Свят Господь Бог наш». Ексапостиларий воскресный 7-й. «Слава» – светилен преподобного, «И ныне» – Богородичен воскресного ексапостилария.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Свят Господь Бог наш"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На хвалитех стихиры на 8: воскресные, глас 4-й – 4, и преподобного, глас 4-й и глас 5-й – 4 (со славником и припевами своими; припевы см. в Минее на стиховне вечера). «Слава» – стихира евангельская 7-я, «И ныне» – «Преблагословенна еси…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": 8,
+            "incipits": [
+              "Преблагословенна еси…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь воскресный: «Воскрес из гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Воскрес из гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь воскресный. «Слава» – тропарь преподобного. Кондаки преподобного и воскресный читаются попеременно.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны гласа – 6 и преподобного, песнь 3-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь воскресный, тропарь преподобного. «Слава» – кондак преподобного, «И ныне» – кондак воскресный.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь воскресный, тропарь храма, тропарь преподобного; кондак воскресный. «Слава» – кондак преподобного, «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь воскресный, тропарь храма, тропарь преподобного; кондак воскресный, кондак храма. «Слава» – кондак преподобного, «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – воскресные и преподобного.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол – дня (Недели 30-й)[6]: Кол., 258 зач.; и преподобного: 2 Кор., 176 зач.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Евангелие – дня (Недели 29-й): Лк., 85 зач.; и преподобного: Лк., 24 зач.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "Примечание. Согласно Уставу, в Неделю святых праотец на Литургии положено читать Евангелие о званных на вечерю (Лк., 76 зач.), то есть рядовое Евангелие Недели 28-й. Поэтому в Неделю 29-ю по Пятидесятнице, которой в текущем году с учетом Воздвиженской отступки соответствует рядовое Евангелие Недели 28-й, следует читать Евангелие Недели 29-й (Лк., 85 зач.), которое в текущем году по расписанию рядовых евангельских чтений приходится на Неделю святых праотец.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 Прокимен воскресный, глас 4-й: «Воскресни́, Го́споди, помози́ нам,/ и изба́ви нас, и́мене Твоего́ ра́ди», стих: «Бо́же, уши́ма на́шима услы́шахом, и отцы́ на́ши возвести́ша нам».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Воскресни́, Го́споди, помози́ нам,/ и изба́ви нас, и́мене Твоего́ ра́ди",
+              "Бо́же, уши́ма на́шима услы́шахом, и отцы́ на́ши возвести́ша нам"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 В текущем году в Неделю 29-ю по Пятидесятнице читается Апостол Недели 30-й (Кол., 258 зач.), так как Апостол Недели 29-й (Кол., 257 зач.), согласно Уставу, читается в Неделю святых праотец, совпадающую в текущем году с Неделей 30-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "3 Ср.: Розанов В. Богослужебный Устав Православной Церкви. С. 61–65, 782.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "4 Там же. С. 65–67.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "5 Прокимен воскресный, глас 4-й: «Воскресни́, Го́споди, помози́ нам,/ и изба́ви нас, и́мене Твоего́ ра́ди», стих: «Бо́же, уши́ма на́шима услы́шахом, и отцы́ на́ши возвести́ша нам».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Воскресни́, Го́споди, помози́ нам,/ и изба́ви нас, и́мене Твоего́ ра́ди",
+              "Бо́же, уши́ма на́шима услы́шахом, и отцы́ на́ши возвести́ша нам"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "6 В текущем году в Неделю 29-ю по Пятидесятнице читается Апостол Недели 30-й (Кол., 258 зач.), так как Апостол Недели 29-й (Кол., 257 зач.), согласно Уставу, читается в Неделю святых праотец, совпадающую в текущем году с Неделей 30-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

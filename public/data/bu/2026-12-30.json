@@ -1,0 +1,424 @@
+{
+  "date": "2026-12-30",
+  "oldStyleDate": "2026-12-17",
+  "source": "https://api.patriarchia.ru/v1/events/2026-12-17",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "17. Среда. Прор. Дании́ла и трех отроко́в: Ана́нии, Аза́рии и Мисаи́ла. Служба прор. Дании́ла и святых отроко́в шестерич",
+      "header": "17. Среда. Прор. Дании́ла и трех отроко́в: Ана́нии, Аза́рии и Мисаи́ла. Служба прор. Дании́ла и святых отроко́в шестеричная, совершается вместе со службой Октоиха.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "17. Среда. Прор. Дании́ла и трех отроко́в: Ана́нии, Аза́рии и Мисаи́ла.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Служба прор. Дании́ла и святых отроко́в шестеричная, совершается вместе со службой Октоиха.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Примечание. Если накануне совершалась аллилуйная служба, то 9-й час не читается, а служба начинается вечерней (с «Царю Небесный…» и обычного начала).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Царю Небесный…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На вечерне кафизма 18-я.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: пророка, глас 4-й – 3, и отроков, глас тот же – 3. «Слава» – пророка, глас 2-й: «Духо́вно нас, ве́рнии…», «И ныне» – предпразднства, глас тот же: «Прииди́те вси, Христо́во Рождество́…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": 6,
+            "incipits": [
+              "Духо́вно нас, ве́рнии…",
+              "Прииди́те вси, Христо́во Рождество́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 5-й. «Слава, и ныне» – пророка, глас 6-й: «Дании́л, муж жела́ний…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 5,
+            "totalCount": null,
+            "incipits": [
+              "Дании́л, муж жела́ний…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь святых, глас 2-й. «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «Препросла́вленна еси, Богоро́дице Де́во…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Препросла́вленна еси, Богоро́дице Де́во…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь святых, глас 2-й (дважды). «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «Препросла́вленна еси, Богоро́дице Де́во…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Препросла́вленна еси, Богоро́дице Де́во…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 10-я, 11-я и 12-я. Малых ектений нет. Седальны Октоиха. Псалом 50-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Октоиха 1-й со ирмосом на 6 (ирмосы единожды), пророка на 4 и отроков на 4.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Примечание. О пении канонов в среду и пятницу см. Октоих, ч. 2, с. 653.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Господеви поем…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Господеви поем…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи (отроков).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос пророка, глас 3-й; седален пророка, глас 8-й. «Слава» – седален отроков, глас тот же, «И ныне» – Крестобогородичен Минеи, глас тот же[1].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос отроков, глас 6-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни поется «Достойно есть». Ексапостиларий Октоиха. «Слава» – светилен пророка, «И ныне» – Минеи: «Тайнонауча́ет, Всечи́стая…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть",
+              "Тайнонауча́ет, Всечи́стая…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 5-й. «Слава, и ныне» – святых, глас 6-й: «Мы́сленному Со́лнцу Пра́вды…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": 5,
+            "totalCount": null,
+            "incipits": [
+              "Мы́сленному Со́лнцу Пра́вды…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь святых, глас 2-й. «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «Тя велича́ем, Богоро́дице, вопию́ще: ра́дуйся, же́зле…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Тя велича́ем, Богоро́дице, вопию́ще: ра́дуйся, же́зле…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь святых. Кондаки пророка и отроков читаются попеременно.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны пророка, песнь 3-я – 4 (со ирмосом), и отроков, песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь дня: «Спаси, Господи…», тропарь святых; кондак отроков, кондак пророка. «Слава» – «Со святыми упокой…», «И ныне» – кондак дня: «Вознесыйся на Крест…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Со святыми упокой…",
+              "Вознесыйся на Крест…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь дня: «Спаси, Господи…», тропарь храма, тропарь святых; кондак дня: «Вознесыйся на Крест…», кондак отроков, кондак пророка. «Слава» – «Со святыми упокой…», «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Вознесыйся на Крест…",
+              "Со святыми упокой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь дня: «Спаси, Господи…», тропарь храма, тропарь святых; кондак дня: «Вознесыйся на Крест…», кондак храма, кондак отроков, кондак пророка. «Слава» – «Со святыми упокой…», «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Вознесыйся на Крест…",
+              "Со святыми упокой…",
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – дня и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 В Минее сначала приводится седален отроков, а потом пророка. – Сост.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

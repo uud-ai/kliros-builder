@@ -1,0 +1,459 @@
+{
+  "date": "2026-11-27",
+  "oldStyleDate": "2026-11-14",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-14",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "14. Пятница. Апостола Фили́ппа. Свт. Григо́рия Пала́мы, архиеп. Фессалони́тского.",
+      "header": "14. Пятница. Апостола Фили́ппа. Свт. Григо́рия Пала́мы, архиеп. Фессалони́тского.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "14. Пятница. Апостола Фили́ппа.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Свт. Григо́рия Пала́мы, архиеп. Фессалони́тского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прп. Фили́ппа Ира́пского. Сщмч. Гео́ргия Извекова пресвитера[1].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Примечание. Указание Устава о Рождественском посте: «До́лжни есмы́ в се́й Четыредеся́тнице сохраня́ти в ко́ейждо седми́це три́ дни́, постя́щеся от еле́я и вина́ – понеде́льник, сре́ду и пято́к. То́чию а́ще случи́тся вели́кий святы́й, в того́ бо па́мять разреша́ем, и твори́м за любо́вь свята́го пра́здника его́ ра́ди, е́же е́сть сего́ ме́сяца: 16, [17, 19, 23,] 25, [27, 28,] 30; деке́мврия – [1, 3,] 4, 5, 6, [7,] 9, [10, 12, 13, 15,] 17, [18,] 20 де́нь. В те бо дни́, а́ще во вто́рник и в четверто́к, яди́м ры́бу. В понеде́льник же, в сре́ду и в пято́к разреша́ем то́чию на еле́й и вино́, ры́бы же не яди́м, кроме́ хра́ма. А́ще ли еди́ному от си́х во оби́тели хра́м, разреша́ем на ры́бу и вино́. Введе́ние же Богоро́дицы в ки́йлибо де́нь случи́тся, а́ще в сре́ду или́ пято́к, разреша́ем и на ры́бы. Не́цыи же уста́вы от 9-го числа́ деке́мврия повелева́ют пости́тися, и на ры́бы не разреша́ти, кроме́ суббо́т, и Неде́ль, и хра́ма свята́го. От 20-го же числа́, да́же до 25-го, а́ще и суббо́та и Неде́ля случи́тся, не разреша́ем на ры́бы» (Типикон, 14 ноября, 1-е и 2-е «зри»). «Подоба́ет ве́дати, яко в пост святы́х апо́стол, и Христо́ва Рождества́, во вто́рник, и четверто́к, ры́бы не яди́м, но еле́й и вино́ то́чию. В понеде́льник, в сре́ду и пято́к ни еле́я вкуша́ем, ни вина́, но пости́мся до 9-го часа́, и яди́м в ты́я дни сухояде́ние. В суббо́ты же и Неде́ли яди́м ры́бы. А́ще случи́тся святы́й во вто́рник, или́ в четверто́к име́яй славосло́вие, яди́м ры́бу; а́ще в понеде́льник, подо́бне. А́ще среда́ и пято́к, разреша́ем на еле́й и вино́ то́чию; яди́м же еди́ною днем. А́ще ли святы́й име́яй бде́ние, в сре́ду, или́ пято́к, разреша́ем на еле́й и вино́ и ры́бу. А́ще ли случи́тся па́мять свята́го, его́же есть храм, в сре́ду, или́ пято́к, твори́м подо́бне» (Типикон, глава 33-я, «зри»). Составителями «Богослужебных указаний» дополнительно указаны следующие даты[2]: памяти некоторых русских святых, полиелейная служба 13 декабря, а также дни, в которые возможно совершение полиелейного или славословного богослужения.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Богослужебных указаний"
+            ]
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Совершается полиелейная служба ап. Филиппа.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "vespers",
+          "sectionTitle": "Вечерня",
+          "rubricText": "На великой вечерне «Блажен муж» – 1-й антифон.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Блажен муж"
+            ]
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры апостола, глас 6-й – 8 (первые две стихиры – трижды, третья – дважды). «Слава» – апостола, глас тот же: «Вели́каго, Фили́ппе…», «И ныне» – догматик, глас тот же: «Кто Тебе не ублажи́т…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": [
+              "Вели́каго, Фили́ппе…",
+              "Кто Тебе не ублажи́т…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня. Паримии апостола – 3[3].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры апостола, глас 1-й (со своими припевами). «Слава» – апостола, глас 2-й: «Ча́ши арома́т…», «И ныне» – Богородичен воскресный, глас тот же: «О, чудесе́ но́ваго…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 1,
+            "totalCount": null,
+            "incipits": [
+              "Ча́ши арома́т…",
+              "О, чудесе́ но́ваго…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь апостола, глас 3-й. «Слава, и ныне» – Богородичен воскресный, глас тот же: «Тя, хода́тайствовавшую…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": [
+              "Тя, хода́тайствовавшую…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь апостола, глас 3-й (дважды). «Слава, и ныне» – Богородичен воскресный, глас тот же: «Тя, хода́тайствовавшую…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": [
+              "Тя, хода́тайствовавшую…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 19-я и 20-я. Малые ектении. Седальны апостола (по дважды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. Величание апостола и избранный псалом. Седален апостола по полиелее, глас 8-й (дважды). «Слава, и ныне» – Богородичен Минеи, глас тот же. Степенна – 1-й антифон 4-го гласа. Прокимен апостола, глас 4-й: «Во всю зе́млю изы́де веща́ние их и в концы́ вселе́нныя глаго́лы их»; стих: «Небеса́ пове́дают сла́ву Бо́жию, творе́ние же руку́ Его́ возвеща́ет твердь». Евангелие – апостола. По 50-м псалме: «Слава» – «Молитвами апостола…». Стихира апостола, глас 6-й: «Прему́дрый ло́вче…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Во всю зе́млю изы́де веща́ние их и в концы́ вселе́нныя глаго́лы их",
+              "Небеса́ пове́дают сла́ву Бо́жию, творе́ние же руку́ Его́ возвеща́ет твердь",
+              "Молитвами апостола…",
+              "Прему́дрый ло́вче…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Богородицы со ирмосом на 6 (ирмосы по дважды) и апостола на 8.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Отверзу уста моя…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Отверзу уста моя…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – седален апостола, глас 8-й. «Слава» – ин седален апостола, глас тот же, «И ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос апостола, глас 8-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен апостола (дважды). «Слава, и ныне» – Богородичен Минеи.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры апостола, глас 8-й и глас 2-й – 4. «Слава» – апостола, глас 3-й: «Рыб лови́тву…», «И ныне» – Богородичен Минеи, глас тот же: «Богоро́дице, Предста́тельнице всех…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Рыб лови́тву…",
+              "Богоро́дице, Предста́тельнице всех…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь апостола, глас 3-й. «Слава, и ныне» – Богородичен воскресный, глас тот же: «Тя, хода́тайствовавшую…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": [
+              "Тя, хода́тайствовавшую…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь и кондак апостола.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны апостола, песнь 3-я – 4 (со ирмосом) и песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь храма, тропарь апостола. «Слава» – кондак апостола, «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь храма, тропарь апостола; кондак храма. «Слава» – кондак апостола, «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – апостола.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и апостола.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Примечание. «Ве́домо бу́ди, я́ко всегда́ твори́м мясопу́ст в 14-й день непреме́нно кроме́ дву дней, среды́ и пятка́. А́ще ли случи́тся мясопу́ст в сре́ду или́ в пято́к, в 14-й день, в па́мять свята́го апо́стола Фили́ппа: тогда́ твори́м мясопу́ст в 13-й день, на па́мять свята́го Иоа́нна Златоу́стаго, а в сре́ду или́ в пято́к ника́коже де́рзнем мясопу́ст твори́ти, возбранено́ бо есть святы́ми пра́вилы» (Типикон, 13 ноября, 2-е «зри»).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 На заседании Священного Синода Русской Православной Церкви 8 декабря 2020 года были утверждены к общецерковному богослужебному употреблению тексты тропаря и кондака священномученику Гео́ргию Извекову пресвитеру. Тексты тропаря и кондака размещены на официальном сайте Русской Православной Церкви – Патриархия.ru (http://www.patriarchia.ru/db/text/5731541.html), и на сайте Издательства Московской Патриархии Русской Православной Церкви (http://nbt.rop.ru/?q=texts/tropar/523).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 Выделены квадратными скобками.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "3 По традиции, новозаветные паримии читаются при открытых царских вратах.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

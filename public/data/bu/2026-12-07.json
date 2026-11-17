@@ -1,0 +1,427 @@
+{
+  "date": "2026-12-07",
+  "oldStyleDate": "2026-11-24",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-24",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "24. Понедельник. Попразднство Введения. Вмц. Екатери́ны. Вмч. Мерку́рия. Мч. Мерку́рия Смоле́нского.",
+      "header": "24. Понедельник. Попразднство Введения. Вмц. Екатери́ны. Вмч. Мерку́рия. Мч. Мерку́рия Смоле́нского.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "24. Понедельник. Попразднство Введения. Вмц. Екатери́ны. Вмч. Мерку́рия.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Мч. Мерку́рия Смоле́нского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Служба вмц. Екатери́ны и вмч. Мерку́рия шестеричная, совершается вместе со службой попразднства.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На вечерне кафизмы нет.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: вмц. Екатерины, глас 1-й – 3, и вмч. Меркурия, глас 4-й – 3. «Слава» – вмц. Екатерины, глас 2-й: «Ра́достно к торжеству́…», «И ныне» – праздника, глас 8-й: «По Рождестве́ Твое́м…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 1,
+            "totalCount": 6,
+            "incipits": [
+              "Ра́достно к торжеству́…",
+              "По Рождестве́ Твое́м…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры праздника, глас 1-й (со своими припевами). «Слава» – вмц. Екатерины, глас 2-й: «Житие́ невеще́ственно…», «И ныне» – праздника, глас 8-й: «Дави́д провозглаша́ше…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 1,
+            "totalCount": null,
+            "incipits": [
+              "Житие́ невеще́ственно…",
+              "Дави́д провозглаша́ше…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь вмц. Екатерины, глас 4-й. «Слава» – тропарь вмч. Меркурия, глас тот же, «И ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь праздника, глас 4-й (единожды), тропарь вмц. Екатерины, глас тот же (единожды). «Слава» – тропарь вмч. Меркурия, глас тот же, «И ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 4-я и 5-я. Малые ектении. Седальны праздника (по дважды). (Седальны вмц. Екатерины не поются.) Псалом 50-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: праздника 1-й со ирмосом на 6 (ирмосы по дважды), вмц. Екатерины на 4 и вмч. Меркурия на 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи (вмч. Меркурия).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос праздника, глас 4-й, кондак вмч. Меркурия, глас тот же; седален вмц. Екатерины, глас тот же: «Жениха́ твоего́…». «Слава» – седален вмч. Меркурия, глас тот же, «И ныне» – седален праздника, глас тот же: «Дави́де, предъиди́…» (см. в Минее 24 ноября).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Жениха́ твоего́…",
+              "Дави́де, предъиди́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Примечание. Типикон умалчивает о кондаке и икосе вмц. Екатерины, глас 3-й, а также о седальне великомученицы, глас 4-й: «Лик соста́вим…». В Минее синодального периода (см.: Минея-Ноябрь. Киев, 1893. Л. 238) эти тексты также отсутствуют.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": [
+              "Лик соста́вим…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос вмц. Екатерины, глас 2-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен вмц. Екатерины (дважды). «Слава, и ныне» – светилен праздника: «А́нгельстии чи́ни…» (см. в Минее 24 ноября).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть",
+              "А́нгельстии чи́ни…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры вмц. Екатерины, глас 4-й – 4 (первая стихира – дважды). «Слава» – вмц. Екатерины, глас 2-й: «Житие́ невеще́ственно…», «И ныне» – праздника, глас 6-й: «Днесь, собо́ри ве́рных…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Житие́ невеще́ственно…",
+              "Днесь, собо́ри ве́рных…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Тебе слава подобает…» не читается, но сразу чтец: «Слава Тебе, показавшему нам свет». Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Тебе слава подобает…",
+              "Слава Тебе, показавшему нам свет"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры праздника, глас 2-й (со своими припевами). «Слава, и ныне» – праздника, глас тот же: «Две́ри Небе́сныя…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Две́ри Небе́сныя…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь вмц. Екатерины, глас 4-й. «Слава» – тропарь вмч. Меркурия, глас тот же, «И ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь праздника. «Слава» – тропари вмц. Екатерины и вмч. Меркурия читаются попеременно. Кондак только праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны праздника, песнь 7-я (со ирмосом) и 8-я – 4, и вмц. Екатерины, песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь храма, тропарь праздника, тропарь вмц. Екатерины, тропарь вмч. Меркурия; кондак храма, кондак вмц. Екатерины. «Слава» – кондак вмч. Меркурия, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь праздника, тропарь вмц. Екатерины, тропарь вмч. Меркурия; кондак вмц. Екатерины. «Слава» – кондак вмч. Меркурия, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь праздника, тропарь храма, тропарь вмц. Екатерины, тропарь вмч. Меркурия; кондак храма, кондак вмц. Екатерины. «Слава» – кондак вмч. Меркурия, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – праздника и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Задостойник праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

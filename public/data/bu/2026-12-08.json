@@ -1,0 +1,417 @@
+{
+  "date": "2026-12-08",
+  "oldStyleDate": "2026-11-25",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-25",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "25. Вторник. Отдание праздника Введения (Входа) во храм Пресвятой Богородицы. Сщмчч. Кли́мента, папы Римского, и Петра́,",
+      "header": "25. Вторник. Отдание праздника Введения (Входа) во храм Пресвятой Богородицы. Сщмчч. Кли́мента, папы Римского, и Петра́, архиеп. Александри́йского. Свт. Кли́мента, архиеп. О́хридского, просветителя Слове́нского, Болгарского.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "25. Вторник. Отдание праздника Введения (Входа) во храм Пресвятой Богородицы. Сщмчч. Кли́мента, папы Римского, и Петра́, архиеп. Александри́йского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Свт. Кли́мента, архиеп. О́хридского, просветителя Слове́нского, Болгарского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Сщмч. Серафи́ма Остроумова, архиеп. Смоле́нского[1].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Совершается славословная служба отдания праздника Введения (Входа) во храм Пресвятой Богородицы вместе со службой сщмчч. Кли́мента и Петра́ (без праздничного знака).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "vespers",
+          "sectionTitle": "Вечерня",
+          "rubricText": "На вседневной вечерне кафизма 6-я.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: праздника, глас 1-й – 3, и сщмч. Климента, глас 2-й – 3. «Слава, и ныне» – праздника, глас 8-й: «По рождестве́ Твое́м…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 1,
+            "totalCount": 6,
+            "incipits": [
+              "По рождестве́ Твое́м…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня. Паримий нет.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры праздника, глас 5-й (со своими припевами). «Слава, и ныне» – праздника, глас 6-й: «Днесь, собо́ри ве́рных…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 5,
+            "totalCount": null,
+            "incipits": [
+              "Днесь, собо́ри ве́рных…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь святых, глас 4-й: «Бо́же оте́ц на́ших…». «Слава, и ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Бо́же оте́ц на́ших…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь праздника, глас 4-й (дважды). «Слава» – тропарь святых, глас тот же: «Бо́же оте́ц на́ших…», «И ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Бо́же оте́ц на́ших…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 7-я и 8-я. Малые ектении. Седальны праздника (по дважды). Псалом 50-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: праздника 2-й со ирмосом на 6 (ирмосы по дважды), сщмч. Климента на 4 и сщмч. Петра на 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак святых, глас 4-й: «Це́ркве недви́жимии…»; седален сщмч. Климента, глас тот же: «Возсия́в, я́коже со́лнца заря́…». «Слава» – седален сщмч. Петра, глас 8-й: «От Вы́шняго суда́…», «И ныне» – седален праздника, глас 4-й: «Непоро́чная А́гница…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Це́ркве недви́жимии…",
+              "Возсия́в, я́коже со́лнца заря́…",
+              "От Вы́шняго суда́…",
+              "Непоро́чная А́гница…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос праздника, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни «Честнейшую» не поем, но поем припев праздника: «Велича́й, душе́ моя́, приведе́нную во храм Госпо́день и благослове́нную рука́ми иере́евыми»[2]. (Совершается обычное каждение.)",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Примечание. «Святы́м же припева́ем стихи́ пе́сней: в коне́ц же 9-й пе́сни, пое́т 1-й лик припе́в пра́здника, та́же катава́сия пра́здника: Та́инство стра́нное ви́жу…, и покло́н» (Типикон, 48 глава, 25 ноября).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен святых: «Ны́не благонаро́чит…». «Слава, и ныне» – светилен праздника: «Ю́же дре́вле…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть",
+              "Ны́не благонаро́чит…",
+              "Ю́же дре́вле…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры на 6: праздника, глас 1-й – 3, и сщмч. Петра, глас тот же[3] – 3. «Слава» – сщмч. Петра, глас 4-й: «Руко́ю Бо́жиею…», «И ныне» – праздника, глас 2-й: «Днесь в храм приво́дится…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 1,
+            "totalCount": 6,
+            "incipits": [
+              "Руко́ю Бо́жиею…",
+              "Днесь в храм приво́дится…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь святых, глас 4-й: «Бо́же оте́ц на́ших…». «Слава, и ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Бо́же оте́ц на́ших…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь праздника. «Слава» – тропарь святых. Кондак только праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "На Литургии блаженны праздника, обоих канонов песнь 9-я – 8 (1-го канона – со ирмосом).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропарь праздника, тропарь святых. «Слава» – кондак святых, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – праздника и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня, праздника (под зачало) и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Задостойник праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 На заседании Священного Синода Русской Православной Церкви 8 декабря 2020 года были утверждены к общецерковному богослужебному употреблению тексты тропаря и кондака священномученику Серафи́му Остроумову, архиепископу Смоле́нскому. Тексты тропаря и кондака размещены на официальном сайте Русской Православной Церкви – Патриархия.ru (http://www.patriarchia.ru/db/text/5731665.html), и на сайте Издательства Московской Патриархии Русской Православной Церкви (http://nbt.rop.ru/?q=texts/tropar/519).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 По традиции, 1-й припев запевает священник или диакон.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "3 В Минее (на с. 342) ошибочно указан глас 3-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 3,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-17",
+  "oldStyleDate": "2026-11-04",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-04",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "4. Вторник. Прп. Иоанни́кия Великого. Сщмчч. Ника́ндра, еп. Ми́рского, и Ерме́я пресвитера. Блж. Си́мона, Христа ради юр",
+      "header": "4. Вторник. Прп. Иоанни́кия Великого. Сщмчч. Ника́ндра, еп. Ми́рского, и Ерме́я пресвитера. Блж. Си́мона, Христа ради юродивого, Юрьеве́цкого.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "4. Вторник. Прп. Иоанни́кия Великого. Сщмчч. Ника́ндра, еп. Ми́рского, и Ерме́я пресвитера.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Блж. Си́мона, Христа ради юродивого, Юрьеве́цкого.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прп. Мерку́рия Печерского, в Дальних пещерах. Св. священноинока Григория.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Служба прп. Иоанни́кия и сщмчч. Ника́ндра и Ерме́я не имеет праздничного знака, совершается вместе со службой Октоиха.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На вечерне кафизма 18-я.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: прп. Иоанникия, глас 4-й – 3, и сщмч. Никандра, глас 2-й – 3. «Слава» – прп. Иоанникия, глас 6-й: «Преподо́бне о́тче…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Никто́же притека́яй…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": 6,
+            "incipits": [
+              "Преподо́бне о́тче…",
+              "Славы",
+              "Никто́же притека́яй…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 7-й. «Слава» – прп. Иоанникия, глас 8-й: «Мона́хов мно́жества…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Ра́дуйся, вселе́нныя похвало́…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Мона́хов мно́жества…",
+              "Славы",
+              "Ра́дуйся, вселе́нныя похвало́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь прп. Иоанникия, глас 8-й. «Слава» – тропарь сщмч. Никандра, глас 4-й, «И ныне» – Богородичен по гласу «Славы», от меньших: «К Богоро́дице приле́жно…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "К Богоро́дице приле́жно…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь прп. Иоанникия, глас 8-й (дважды). «Слава» – тропарь сщмч. Никандра, глас 4-й, «И ныне» – Богородичен по гласу «Славы», от меньших: «К Богоро́дице приле́жно…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "К Богоро́дице приле́жно…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 7-я, 8-я и 9-я. Малых ектений нет. Седальны Октоиха. Псалом 50-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Октоиха 1-й со ирмосом на 6 (ирмосы единожды), прп. Иоанникия на 4 и священномучеников на 4.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Господеви поем…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Господеви поем…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи (священномучеников).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – седален прп. Иоанникия, глас 8-й. «Слава» – седален священномучеников, глас 4-й, «И ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос прп. Иоанникия, глас 8-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни поется «Достойно есть». Ексапостиларий Октоиха. «Слава» – светилен прп. Иоанникия, «И ныне» – Богородичен Минеи.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 7-й. «Слава» – прп. Иоанникия, глас 6-й: «Е́же по о́бразу…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Вели́ких дарова́ний…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Е́же по о́бразу…",
+              "Славы",
+              "Вели́ких дарова́ний…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь прп. Иоанникия, глас 8-й. «Слава» – тропарь сщмч. Никандра, глас 4-й, «И ныне» – Богородичен по гласу «Славы», от меньших: «Тя велича́ем, Богоро́дице, вопию́ще: Ты еси купина́…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Тя велича́ем, Богоро́дице, вопию́ще: Ты еси купина́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь прп. Иоанникия. «Слава» – тропарь сщмч. Никандра. Кондак прп. Иоанникия.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии вседневные антифоны.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь храма, тропарь дня, тропарь Иоанникия, тропарь сщмч. Никандра; кондак дня, кондак прп. Иоанникия. «Слава» – «Со святыми упокой…», «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Со святыми упокой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь дня, тропарь храма, тропарь Иоанникия, тропарь сщмч. Никандра; кондак дня, кондак храма, кондак прп. Иоанникия. «Слава» – «Со святыми упокой…», «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Со святыми упокой…",
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен[1] – дня и преподобного.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и преподобного.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 Причастны дня и преподобного совпадают.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

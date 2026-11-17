@@ -1,0 +1,1002 @@
+{
+  "date": "2026-12-23",
+  "oldStyleDate": "2026-12-10",
+  "source": "https://api.patriarchia.ru/v1/events/2026-12-10",
+  "variants": [
+    {
+      "id": "variant_А",
+      "label": "Вариант А",
+      "title": "На вечерне кафизма 9-я (которая не была прочитана на утрене вторника).",
+      "header": "10. Среда. Мчч. Ми́ны, Ермоге́на и Евгра́фа. Свт. Иоаса́фа, еп. Белгоро́дского (службу зри 4 сентября). Прав. Иоанна Сербского. Служба мучеников не имеет праздничного знака, совершается вместе со службой Октоиха (А). При",
+      "nodes": [
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: Октоиха, глас 4-й – 3, и мучеников, глас 1-й – 3. «Слава, и ныне» – Крестобогородичен Минеи, глас тот же: «Де́ва Нескве́рная…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": 6,
+            "incipits": [
+              "Де́ва Нескве́рная…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 4-й. «Слава, и ныне» – Крестобогородичен Октоиха, глас тот же: «Распина́ема Христа́ Человеколю́бца…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Распина́ема Христа́ Человеколю́бца…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь мучеников, глас 8-й. «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «А́гнца, и Па́стыря…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "А́гнца, и Па́стыря…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь мучеников, глас 8-й (дважды). «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «А́гнца, и Па́стыря…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "А́гнца, и Па́стыря…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 10-я, 11-я и 12-я. Малых ектений нет. Седальны Октоиха. Псалом 50-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Октоиха 1-й со ирмосом на 6 (ирмосы единожды), 2-й на 4, и мучеников на 4.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Господеви поем…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Господеви поем…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – ин кондак мучеников, глас 1-й; седален мучеников, глас 8-й. «Слава, и ныне» – Крестобогородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 1,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос мучеников, глас 4-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни поется «Достойно есть». Ексапостиларий Октоиха. «Слава» – светилен мучеников, «И ныне» – Крестобогородичен Октоиха.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 4-й. «Слава, и ныне» – Крестобогородичен Октоиха, глас тот же: «Умерщвля́ема ви́дящи Христа́…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Умерщвля́ема ви́дящи Христа́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь мучеников, глас 8-й. «Слава, и ныне» – Крестобогородичен по гласу тропаря, от меньших: «Плод чре́ва Твоего́…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Плод чре́ва Твоего́…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь мучеников. Кондаки мучеников читаются попеременно.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии вседневные антифоны.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском – тропарь дня: «Спаси, Господи…», тропарь мучеников; кондак мучеников, ин кондак мучеников. «Слава» – «Со святыми упокой…», «И ныне» – кондак дня: «Вознесыйся на Крест…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Со святыми упокой…",
+              "Вознесыйся на Крест…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Богородицы – тропарь дня: «Спаси, Господи…», тропарь храма, тропарь мучеников; кондак дня: «Вознесыйся на Крест…», кондак мучеников, ин кондак мучеников. «Слава» – «Со святыми упокой…», «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Вознесыйся на Крест…",
+              "Со святыми упокой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь дня: «Спаси, Господи…», тропарь храма, тропарь мучеников; кондак дня: «Вознесыйся на Крест…», кондак храма, кондак мучеников, ин кондак мучеников. «Слава» – «Со святыми упокой…», «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Спаси, Господи…",
+              "Вознесыйся на Крест…",
+              "Со святыми упокой…",
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – дня и мучеников.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и мучеников.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "variant_Б",
+      "label": "Вариант Б",
+      "title": "На великой вечерне «Блажен муж» – 1-й антифон.",
+      "header": "10. Среда. Мчч. Ми́ны, Ермоге́на и Евгра́фа. Свт. Иоаса́фа, еп. Белгоро́дского (службу зри 4 сентября). Прав. Иоанна Сербского. Служба мучеников не имеет праздничного знака, совершается вместе со службой Октоиха (А). При",
+      "nodes": [
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры святителя, глас 8-й и глас 5-й – 8 (первые две стихиры – дважды). «Слава» – святителя, глас 2-й: «Ки́ими похва́льными венцы́…», «И ныне» – догматик, глас тот же: «Пре́йде сень зако́нная…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Ки́ими похва́льными венцы́…",
+              "Пре́йде сень зако́нная…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня. Паримии святителя – 3.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры святителя, глас 7-й (со своими припевами). «Слава, и ныне» – Богородичен воскресный, глас тот же: «Под кров Твой…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Под кров Твой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь святителя (по выбору). «Слава, и ныне» – Богородичен воскресный по гласу тропаря.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь святителя (по выбору; дважды). «Слава, и ныне» – Богородичен воскресный по гласу тропаря.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 10-я и 11-я. Малые ектении. Седальны святителя (по дважды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. Величание святителя и избранный псалом. Седален святителя по полиелее, глас 2-й (дважды). «Слава, и ныне» – Богородичен Минеи, глас тот же. Степенна – 1-й антифон 4-го гласа. Прокимен святителя, глас 4-й: «Уста́ моя́ возглаго́лют прему́дрость и поуче́ние се́рдца моего́ ра́зум»; стих: «Услы́шите сия́, вси язы́цы, внуши́те, вси живу́щии по вселе́нней». Евангелие – святителя. По 50-м псалме: «Слава» – «Молитвами святителя Иоаса́фа…». Стихира святителя, глас 6-й: «Непреста́нною моли́твою…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Уста́ моя́ возглаго́лют прему́дрость и поуче́ние се́рдца моего́ ра́зум",
+              "Услы́шите сия́, вси язы́цы, внуши́те, вси живу́щии по вселе́нней",
+              "Молитвами святителя Иоаса́фа…",
+              "Непреста́нною моли́твою…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Богородицы со ирмосом на 6 (ирмосы по дважды) и святителя на 8.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – седален святителя, глас 6-й (дважды). «Слава, и ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 6,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос святителя, глас 8-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен святителя (дважды). «Слава, и ныне» – Богородичен Минеи.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры святителя, глас 4-й – 4 (первая стихира – дважды). «Слава» – святителя, глас 8-й: «О, пресла́внаго чудесе́!..», «И ныне» – Богородичен Минеи, глас тот же: «Влады́чице, приими́ моли́твы раб Твои́х…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "О, пресла́внаго чудесе́!..",
+              "Влады́чице, приими́ моли́твы раб Твои́х…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь святителя (по выбору). «Слава, и ныне» – Богородичен воскресный по гласу тропаря.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь и кондак святителя.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны святителя, песнь 3-я – 4 (со ирмосом) и песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь храма, тропарь святителя. «Слава» – кондак святителя, «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь храма, тропарь святителя; кондак храма. «Слава» – кондак святителя, «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – святителя.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и святителя.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "variant_В",
+      "label": "Вариант В",
+      "title": "На великой вечерне «Блажен муж» – 1-й антифон.",
+      "header": "10. Среда. Мчч. Ми́ны, Ермоге́на и Евгра́фа. Свт. Иоаса́фа, еп. Белгоро́дского (службу зри 4 сентября). Прав. Иоанна Сербского. Служба мучеников не имеет праздничного знака, совершается вместе со службой Октоиха (А). При",
+      "nodes": [
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 8: святителя, глас 8-й и глас 5-й – 5, и мучеников, глас 1-й – 3. «Слава» – святителя, глас 2-й: «Ки́ими похва́льными венцы́…», «И ныне» – догматик, глас тот же: «Пре́йде сень зако́нная…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": 8,
+            "incipits": [
+              "Ки́ими похва́льными венцы́…",
+              "Пре́йде сень зако́нная…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня. Паримии святителя – 3.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры святителя, глас 7-й (со своими припевами). «Слава, и ныне» – Богородичен воскресный, глас тот же: «Под кров Твой…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Под кров Твой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь святителя (по выбору). «Слава» – тропарь мучеников, глас 8-й, «И ныне» – Богородичен воскресный по гласу «Славы»: «Иже нас ра́ди…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Иже нас ра́ди…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь святителя (по выбору; дважды). «Слава» – тропарь мучеников, глас 8-й, «И ныне» – Богородичен воскресный по гласу «Славы»: «Иже нас ра́ди…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Иже нас ра́ди…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 10-я и 11-я. Малые ектении. Седальны святителя (по дважды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. Величание святителя и избранный псалом. Седален святителя по полиелее, глас 2-й (дважды). «Слава, и ныне» – Богородичен Минеи, глас тот же. Степенна – 1-й антифон 4-го гласа. Прокимен святителя, глас 4-й: «Уста́ моя́ возглаго́лют прему́дрость и поуче́ние се́рдца моего́ ра́зум»; стих: «Услы́шите сия́, вси язы́цы, внуши́те, вси живу́щии по вселе́нней». Евангелие – святителя. По 50-м псалме: «Слава» – «Молитвами святителя Иоаса́фа…». Стихира святителя, глас 6-й: «Непреста́нною моли́твою…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Уста́ моя́ возглаго́лют прему́дрость и поуче́ние се́рдца моего́ ра́зум",
+              "Услы́шите сия́, вси язы́цы, внуши́те, вси живу́щии по вселе́нней",
+              "Молитвами святителя Иоаса́фа…",
+              "Непреста́нною моли́твою…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Богородицы со ирмосом на 4 (ирмосы по дважды), святителя на 6 и мучеников на 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 4,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос мучеников, глас 4-й, ин кондак мучеников, глас 1-й; седален святителя, глас 6-й. «Слава» – седален мучеников, глас 8-й, «И ныне» – Богородичен Минеи, глас тот же: «В напа́сти многоплете́нныя…» (см. в службе мучеников).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "В напа́сти многоплете́нныя…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос святителя, глас 8-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни «Достойно есть» не поется. Светилен святителя. «Слава» – светилен мучеников, «И ныне» – Богородичен Минеи: «Гора́, юже прови́де…» (см. в службе мучеников).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть",
+              "Гора́, юже прови́де…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "На хвалитех стихиры святителя, глас 4-й – 4 (первая стихира – дважды). «Слава» – святителя, глас 8-й: «О, пресла́внаго чудесе́!..», «И ныне» – Богородичен Минеи, глас тот же: «Влады́чице, приими́ моли́твы раб Твои́х…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "О, пресла́внаго чудесе́!..",
+              "Влады́чице, приими́ моли́твы раб Твои́х…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь святителя (по выбору). «Слава» – тропарь мучеников, глас 8-й, «И ныне» – Богородичен воскресный по гласу «Славы»: «Иже нас ра́ди…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Иже нас ра́ди…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь святителя. «Слава» – тропарь мучеников. Кондак только святителя.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны святителя, песнь 3-я – 4 (со ирмосом) и песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь храма, тропарь святителя, тропарь мучеников; кондак святителя, кондак мучеников. «Слава» – ин кондак мучеников, «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь храма, тропарь святителя, тропарь мучеников; кондак храма, кондак святителя, кондак мучеников. «Слава» – ин кондак мучеников, «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – святителя и мучеников.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня, святителя (под зачало) и мучеников.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

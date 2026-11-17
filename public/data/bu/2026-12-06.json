@@ -1,0 +1,620 @@
+{
+  "date": "2026-12-06",
+  "oldStyleDate": "2026-11-23",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-23",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "23. Неделя 27-я по Пятидесятнице. Глас 2-й. Попразднство Введения. Блгв. вел. кн. Алекса́ндра Не́вского. Свт. Амфило́хия",
+      "header": "23. Неделя 27-я по Пятидесятнице. Глас 2-й. Попразднство Введения. Блгв. вел. кн. Алекса́ндра Не́вского. Свт. Амфило́хия, еп. Икони́йского. Свт. Григо́рия, еп. Акраганти́йского. Свт. Митрофа́на, в схиме Мака́рия, еп. Воро́нежского.",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "23. Неделя 27-я по Пятидесятнице. Глас 2-й. Попразднство Введения. Блгв. вел. кн. Алекса́ндра Не́вского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Свт. Амфило́хия, еп. Икони́йского. Свт. Григо́рия, еп. Акраганти́йского. Свт. Митрофа́на, в схиме Мака́рия, еп. Воро́нежского.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Сщмч. Фили́ппа Распопова пресвитера[1].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Приводим порядок совершения воскресной службы Октоиха в соединении со службой попразднства и полиелейной службой блгв. кн. Александра Невского (по 2-й Марковой главе Типикона под 21 ноября: «Подоба́ет ве́дати, а́ще случи́тся попра́зднство Вхо́да Богоро́дицы в Неде́лю, и святы́й пра́зднуется на 4, или́ на 6»)[2].",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 4,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Примечание. По этому же образцу может совершаться полиелейная служба свт. Митрофана Воронежского. Служба свт. Амфило́хия, еп. Икони́йского, и свт. Григо́рия, еп. Акраганти́йского, может быть перенесена на повечерие в Неделю вечера[3].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "vespers",
+          "sectionTitle": "Вечерня",
+          "rubricText": "На великой вечерне «Блажен муж» – кафизма вся.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Блажен муж"
+            ]
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 10: воскресные, глас 2-й – 3, праздника, глас 1-й – 3 (см. 23 ноября в службе свтт. Амфилохия и Григория, на стиховне вечера, без стиховных припевов), и благоверного князя, глас 2-й – 4. «Слава» – благоверного князя, глас 6-й: «Всяк град и страна́…»[4], «И ныне» – догматик, глас 2-й: «Пре́йде сень зако́нная…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": 10,
+            "incipits": [
+              "Всяк град и страна́…",
+              "Пре́йде сень зако́нная…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Вход. Прокимен дня. Паримии благоверного князя – 3.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "litiya",
+          "sectionTitle": "На литии",
+          "rubricText": "На литии стихиры праздника, глас 2-й (см. 23 ноября в службе свтт. Амфилохия и Григория, на стиховне утрени, без стиховных припевов), и стихиры благоверного князя, глас 3-й, глас 4-й и глас 5-й. «Слава» – благоверного князя, глас 2-й: «Прииди́те, Христоимени́тии собо́ри…», «И ныне» – праздника, глас 5-й: «Возсия́ день ра́достен…» (см. в службе благоверного князя).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Прииди́те, Христоимени́тии собо́ри…",
+              "Возсия́ день ра́достен…"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры воскресные, глас 2-й. «Слава» – благоверного князя, глас 1-й: «Ра́дуйся и весели́ся…», «И ныне» – праздника, глас 6-й: «Днесь собо́ри ве́рных…» (см. в службе благоверного князя).",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Ра́дуйся и весели́ся…",
+              "Днесь собо́ри ве́рных…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – «Богородице Дево…» (дважды) и тропарь праздника, глас 4-й (единожды).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Богородице Дево…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь воскресный, глас 2-й (дважды). «Слава» – тропарь благоверного князя, глас 4-й, «И ныне» – тропарь праздника, глас тот же.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 2-я и 3-я. Малые ектении. Седальны воскресные[5].",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "kathismata",
+          "sectionTitle": "Кафизмы и полиелей",
+          "rubricText": "Полиелей. Величание благоверного князя и избранный псалом. «Ангельский собор…». Ипакои гласа. Седален благоверного князя по 1-м стихословии, глас 4-й: «Ра́дуйся, яко вторы́й Фессало́нь…», седален благоверного князя по 2-м стихословии, глас 3-й: «Благода́рно зове́м вси…». «Слава» – седален благоверного князя по полиелее, глас 8-й: «Дух Святы́й тя, блаже́нне, наста́ви…», «И ныне» – седален праздника, глас тот же: «Пре́жде зача́тия, Чи́стая…» (см. в службе благоверного князя). Степенны и прокимен – гласа[6]. Евангелие воскресное 5-е. «Воскресение Христово видевше…». По 50-м псалме: «Слава» – «Молитвами апостолов…». Стихира воскресная, глас 6-й: «Воскрес Иисус от гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Ангельский собор…",
+              "Ра́дуйся, яко вторы́й Фессало́нь…",
+              "Благода́рно зове́м вси…",
+              "Дух Святы́й тя, блаже́нне, наста́ви…",
+              "Пре́жде зача́тия, Чи́стая…",
+              "Воскресение Христово видевше…",
+              "Молитвами апостолов…",
+              "Воскрес Иисус от гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: воскресный со ирмосом на 4 (ирмосы единожды), праздника 2-й (см. 23 ноября в службе свтт. Амфилохия и Григория) на 4 и благоверного князя на 6.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 4,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Поем Господеви…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Поем Господеви…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия «Христос раждается…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Христос раждается…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос праздника, глас 4-й, кондак и икос благоверного князя, глас 8-й; седален благоверного князя, глас тот же. «Слава, и ныне» – седален праздника, глас 4-й: «Непоро́чная А́гница…» (см. в службе благоверного князя).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Непоро́чная А́гница…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос воскресные, глас 2-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни – «Свят Господь Бог наш». Ексапостиларий воскресный 5-й. «Слава» – светилен благоверного князя, «И ныне» – светилен праздника: «Ю́же дре́вле…» (см. 23 ноября в службе свтт. Амфилохия и Григория).",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Свят Господь Бог наш",
+              "Ю́же дре́вле…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Всякое дыхание…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Всякое дыхание…"
+            ]
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На хвалитех стихиры на 8: воскресные, глас 2-й – 4, и благоверного князя, глас 8-й и глас 2-й – 4 (со славником и припевами своими; припевы см. в Минее на стиховне вечера в службе благоверного князя). «Слава» – стихира евангельская 5-я, «И ныне» – «Преблагословенна еси…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": 8,
+            "incipits": [
+              "Преблагословенна еси…"
+            ]
+          }
+        },
+        {
+          "sectionId": "lauds",
+          "sectionTitle": "На хвалитех и Славословие",
+          "rubricText": "Великое славословие. По Трисвятом – тропарь воскресный: «Воскрес из гроба…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Воскрес из гроба…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Отпуст воскресный: «Воскресы́й из мертвых…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Воскресы́й из мертвых…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 1-м часе[7] – тропарь воскресный. «Слава» – тропарь праздника. Кондак праздника.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 1,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 3-м часе – тропарь воскресный. «Слава» – тропарь благоверного князя. Кондак воскресный.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 3,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 6-м часе – тропарь воскресный. «Слава» – тропарь праздника. Кондак благоверного князя.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "ninth_hour",
+          "sectionTitle": "9-й час и Малая вечерня",
+          "rubricText": "На 9-м часе – тропарь воскресный. «Слава» – тропарь благоверного князя. Кондак праздника.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии блаженны гласа – 4, праздника, песнь 4-я и 5-я – 4, и благоверного князя, песнь 6-я – 4.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На входе: «…Воскресы́й из мертвых…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "…Воскресы́й из мертвых…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь воскресный, тропарь праздника, тропарь благоверного князя; кондак воскресный. «Слава» – кондак благоверного князя, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь воскресный, тропарь праздника, тропарь храма, тропарь благоверного князя; кондак воскресный, кондак храма. «Слава» – кондак благоверного князя, «И ныне» – кондак праздника.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – воскресные и благоверного князя[8].",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и благоверного князя.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Задостойник праздника.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Отпуст воскресный: «Воскресы́й из мертвых…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Воскресы́й из мертвых…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 На заседании Священного Синода Русской Православной Церкви 24 октября 2024 года были утверждены к общецерковному богослужебному употреблению тексты тропаря и кондака священномученику Филиппу Распопову. Тексты тропаря и кондака размещены на официальном сайте Русской Православной Церкви – Патриархия.ru (http://www.patriarchia.ru/db/text/6168039.html), и на сайте Издательства Московской Патриархии Русской Православной Церкви (http://nbt.rop.ru/?q=texts/tropar/680).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 Ср.: Розанов В. Богослужебный Устав Православной Церкви. С. 86–95.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "3 Ср.: Типикон, 20 ноября, Маркова глава; 25 ноября, Маркова глава; гл. 50, «В четверто́к ве́чера 7-я седми́цы отда́ние Вознесе́ния», «зри».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": 5,
+            "totalCount": null,
+            "incipits": [
+              "В четверто́к ве́чера 7-я седми́цы отда́ние Вознесе́ния"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "4 Ср.: Типикон, 21 ноября, 2-я Маркова глава; Розанов В. Богослужебный Устав Православной Церкви. С. 86, 783.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "5 По первом стихословии на «Слава, и ныне» – Богородичен воскресный 2-го гласа: «Вся па́че смы́сла…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Вся па́че смы́сла…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "6 Прокимен воскресный, глас 2-й: «Воста́ни, Го́споди Бо́же мой, повеле́нием, и́мже запове́дал еси,/ и сонм люде́й обы́дет Тя», стих: «Го́споди Бо́же мой, на Тя упова́х, спаси́ мя».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": [
+              "Го́споди Бо́же мой, на Тя упова́х, спаси́ мя"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "7 Ср.: Розанов В. Богослужебный Устав Православной Церкви. С. 275–277; Минея общая, «Изъявление вкратце».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Изъявление вкратце"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "8 Ср.: Розанов В. Богослужебный Устав Православной Церкви. С. 354–355.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}

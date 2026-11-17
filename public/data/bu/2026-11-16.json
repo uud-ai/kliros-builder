@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-16",
+  "oldStyleDate": "2026-11-03",
+  "source": "https://api.patriarchia.ru/v1/events/2026-11-03",
+  "variants": [
+    {
+      "id": "variant_A",
+      "label": "Основной уставной чин",
+      "title": "3. Понедельник. Мчч. Акепси́ма епископа, Ио́сифа пресвитера и Аифала́ диакона. Обновление храма вмч. Гео́ргия в Ли́дде. ",
+      "header": "3. Понедельник. Мчч. Акепси́ма епископа, Ио́сифа пресвитера и Аифала́ диакона. Обновление храма вмч. Гео́ргия в Ли́дде. Новомучеников Быковских: сщмчч. Иоанна Кесарийского, Петра Косминкова пресвитеров, Симеона Кречкова диакона и мц. Евдокии Сафроновой[1]. Сщмч. Се́ргия Кедрова пресвитера[2].",
+      "nodes": [
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "3. Понедельник. Мчч. Акепси́ма епископа, Ио́сифа пресвитера и Аифала́ диакона. Обновление храма вмч. Гео́ргия в Ли́дде.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Новомучеников Быковских: сщмчч. Иоанна Кесарийского, Петра Косминкова пресвитеров, Симеона Кречкова диакона и мц. Евдокии Сафроновой[1]. Сщмч. Се́ргия Кедрова пресвитера[2].",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Служба мучеников и вмч. Гео́ргия не имеет праздничного знака, совершается вместе со службой Октоиха.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На вечерне кафизмы нет.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "gospodi_vozzvakh",
+          "sectionTitle": "На «Господи, воззвах»",
+          "rubricText": "На «Господи, воззвах» стихиры на 6: мучеников, глас 8-й – 3, и вмч. Георгия, глас 4-й – 3. «Слава» – вмч. Георгия, глас 6-й: «Досто́йно и́мене жи́тельствовал еси…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Арха́нгельски воспои́м…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": 6,
+            "incipits": [
+              "Досто́йно и́мене жи́тельствовал еси…",
+              "Славы",
+              "Арха́нгельски воспои́м…"
+            ]
+          }
+        },
+        {
+          "sectionId": "paremias",
+          "sectionTitle": "Вход, прокимен и паремии",
+          "rubricText": "Входа нет. Прокимен дня.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 7-й. «Слава» – мучеников, глас 6-й: «Предпу́тие обра́зно трисия́ннаго…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Арха́нгельски воспои́м…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Предпу́тие обра́зно трисия́ннаго…",
+              "Славы",
+              "Арха́нгельски воспои́м…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь мучеников, глас 4-й. «Слава» – тропарь вмч. Георгия, глас тот же, «И ныне» – Богородичен по гласу «Славы», от меньших: «Воспита́вшейся во хра́ме…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Воспита́вшейся во хра́ме…"
+            ]
+          }
+        },
+        {
+          "sectionId": "bog_gospod",
+          "sectionTitle": "На «Бог Господь»",
+          "rubricText": "На утрене на «Бог Господь» – тропарь мучеников, глас 4-й (дважды). «Слава» – тропарь вмч. Георгия, глас тот же, «И ныне» – Богородичен по гласу «Славы», от меньших: «Воспита́вшейся во хра́ме…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Воспита́вшейся во хра́ме…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Кафизмы 4-я, 5-я и 6-я. Малых ектений нет. Седальны Октоиха. Псалом 50-й.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Каноны: Октоиха 1-й со ирмосом на 6 (ирмосы единожды), мучеников на 4 и вмч. Георгия на 4.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": 6,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Библейские песни «Господеви поем…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Господеви поем…"
+            ]
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "Катавасия по 3-й, 6-й, 8-й и 9-й песнях – ирмосы канона Минеи (вмч. Георгия).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 3-й песни – кондак и икос мучеников, глас 2-й; седален мучеников, глас 8-й. «Слава» – седален вмч. Георгия, глас 1-й, «И ныне» – Богородичен Минеи, глас тот же.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 2,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "canons",
+          "sectionTitle": "Каноны на утрени",
+          "rubricText": "По 6-й песни – кондак и икос вмч. Георгия, глас 8-й.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 8,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На 9-й песни поем «Честнейшую».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": 9,
+            "incipits": [
+              "Честнейшую"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По 9-й песни поется «Достойно есть». Ексапостиларий Октоиха, светилен мучеников. «Слава» – светилен вмч. Георгия, «И ныне» – Богородичен Минеи.",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Достойно есть"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "«Хвалите Господа с Небес…» и хвалитные псалмы.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Хвалите Господа с Небес…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Читается вседневное славословие.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "stichovna_vespers",
+          "sectionTitle": "На стиховне вечерни",
+          "rubricText": "На стиховне стихиры Октоиха, глас 7-й; стих: «Воззва́ша пра́веднии…», и стихира мучеников, глас 2-й: «О благоче́стии, святи́и…». «Слава» – вмч. Георгия, глас 4-й: «Разу́мнаго адама́нта…», «И ныне» – Богородичен по гласу «Славы», от меньших: «Богоро́дице, всех Цари́це…».",
+          "refs": {
+            "useOktoikh": true,
+            "useMineya": true,
+            "glas": 7,
+            "totalCount": null,
+            "incipits": [
+              "Воззва́ша пра́веднии…",
+              "О благоче́стии, святи́и…",
+              "Разу́мнаго адама́нта…",
+              "Славы",
+              "Богоро́дице, всех Цари́це…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По Трисвятом – тропарь мучеников, глас 4-й. «Слава» – тропарь вмч. Георгия, глас тот же, «И ныне» – Богородичен по гласу «Славы», от меньших: «Яко всех еси творе́ний…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": 4,
+            "totalCount": null,
+            "incipits": [
+              "Славы",
+              "Яко всех еси творе́ний…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "На часах – тропарь мучеников. «Слава» – тропарь вмч. Георгия. Кондаки мучеников и вмч. Георгия читаются попеременно.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "liturgy",
+          "sectionTitle": "Литургия",
+          "rubricText": "На Литургии вседневные антифоны.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "По входе – тропари и кондаки:",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме Господском и Богородицы – тропарь храма, тропарь дня, тропарь мучеников, тропарь вмч. Георгия; кондак дня, кондак мучеников, кондак вмч. Георгия. «Слава» – «Со святыми упокой…», «И ныне» – кондак храма.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Со святыми упокой…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "В храме святого – тропарь дня, тропарь храма, тропарь мучеников, тропарь вмч. Георгия; кондак дня, кондак храма, кондак мучеников, кондак вмч. Георгия. «Слава» – «Со святыми упокой…», «И ныне» – «Предстательство христиан…».",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": [
+              "Со святыми упокой…",
+              "Предстательство христиан…"
+            ]
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Прокимен, аллилуиарий и причастен – дня и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "Апостол и Евангелие – дня и святых.",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": true,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "1 На заседании Священного Синода Русской Православной Церкви 14 мая 2018 года был утвержден к общецерковному богослужебному употреблению текст службы новомученикам Быковским. Текст службы размещен на официальном сайте Русской Православной Церкви – Патриархия.ru (http://www.patriarchia.ru/db/text/5195718.html), и на сайте Издательства Московской Патриархии Русской Православной Церкви (http://nbt.rop.ru/?q=texts/sluzhba/422).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        },
+        {
+          "sectionId": "rubric_note",
+          "sectionTitle": "Указание Устава",
+          "rubricText": "2 На заседании Священного Синода Русской Православной Церкви 27 декабря 2024 года был утвержден к общецерковному богослужебному употреблению текст службы священномученику Сергию Кедрову. Текст службы размещен на официальном сайте Русской Православной Церкви – Патриархия.ru (http://www.patriarchia.ru/db/text/6185174.html), и на сайте Издательства Московской Патриархии Русской Православной Церкви (http://nbt.rop.ru).",
+          "refs": {
+            "useOktoikh": false,
+            "useMineya": false,
+            "glas": null,
+            "totalCount": null,
+            "incipits": []
+          }
+        }
+      ]
+    }
+  ]
+}
