@@ -1,0 +1,18 @@
+﻿{
+  "name": "лиросный конструктор богослужений",
+  "short_name": "лирос",
+  "description": "огослужебные указания атриархии.ру с текстами асослова, ктоиха и инеи",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#7f1d1d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

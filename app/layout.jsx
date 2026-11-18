@@ -1,4 +1,4 @@
-import './globals.css';
+﻿import './globals.css';
 import { PT_Serif, Inter } from 'next/font/google';
 
 const ptSerif = PT_Serif({
@@ -15,9 +15,26 @@ const inter = Inter({
   display: 'swap',
 });
 
+export const viewport = {
+  themeColor: '#7f1d1d',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export const metadata = {
-  title: 'Клиросный конструктор богослужений',
-  description: 'Богослужебные указания Патриархии.ру с текстами Часослова, Октоиха и Минеи',
+  title: 'лиросный конструктор богослужений',
+  description: 'огослужебные указания атриархии.ру с текстами асослова, ктоиха и инеи',
+  manifest: '/manifest.json',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'лирос',
+  },
+  icons: {
+    icon: '/icon.svg',
+    apple: '/icon.svg',
+  },
 };
 
 export default function RootLayout({ children }) {
